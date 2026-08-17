@@ -114,7 +114,7 @@ Data Flow>..>>>>>>>>>>
 👨‍💻 About the Developer
 
 Venendra Kumar
-Lead Web Developer | Frontend & MERN Stack
+Project Engineer>Technical Recruiter- Full Stack
 📍 India
 
 🔗 GitHub: https://github.com/VENENDRAKUMAR
@@ -125,4 +125,5 @@ Lead Web Developer | Frontend & MERN Stack
 
 Open to feedback, collaboration, and opportunities.
 Feel free to raise issues or connect with me.
+venendra@ecoavenstra.com
 
