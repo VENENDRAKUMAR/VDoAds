@@ -1,15 +1,15 @@
 
-******📌 Project Description & Purpose*****
+****** Project Description & Purpose*****
 VDoAds – A modern advertising web app built with Next.js, TypeScript, Redux, and Tailwind CSS.
 Demonstrates scalable frontend architecture, state management, and production-ready deployment on Vercel.
 This project showcases my ability to build maintainable, responsive, and state-driven applications using industry-standard tools.
 What Makes This Project Stand Out?
 
-✔️ Uses modern React ecosystem
-✔️ Clean and readable codebase
-✔️ Real-world use case (ad platform UI)
-✔️ Deployed and production-ready
-✔️ Easy to extend with backend/APIs
+1.  Uses modern React ecosystem
+2.  Clean and readable codebase
+3.  Real-world use case (ad platform UI)
+4.  Deployed and production-ready
+5.  Easy to extend with backend/APIs
 
 ######### Skills Demonstrated #########
 Frontend Architecture (modular & scalable)
@@ -114,7 +114,7 @@ Data Flow>..>>>>>>>>>>
 👨‍💻 About the Developer
 
 Venendra Kumar
-Project Engineer>Technical Recruiter- Full Stack
+Software Engineer>Full Stack
 📍 India
 
 🔗 GitHub: https://github.com/VENENDRAKUMAR
@@ -125,5 +125,5 @@ Project Engineer>Technical Recruiter- Full Stack
 
 Open to feedback, collaboration, and opportunities.
 Feel free to raise issues or connect with me.
-venendra@ecoavenstra.com
+venendra.tech@gmail.com
 
